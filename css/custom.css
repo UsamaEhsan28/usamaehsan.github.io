@@ -321,6 +321,7 @@ margin-top:-5% ;
     height: 105%;
     margin-top: -2%;
     z-index: 10000;
+    background-color: transparent;
 
 }
 .recent-work-images img:hover
